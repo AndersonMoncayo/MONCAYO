@@ -6,7 +6,7 @@ import unicodedata
 app = Flask(__name__)
 
 # Configurar la clave de API
-API_KEY = 'AIzaSyB_5AZ-6mut-b-j1dHZb7RwZ5wG3ZiXwvk'
+API_KEY = 'AIzaSyBUMa_QSx_jBujpRuaGkgL6rNSlQlOz1xE'
 genai.configure(api_key=API_KEY)
 
 # Crear y configurar el modelo
